@@ -1,0 +1,11 @@
+node_modules/
+**/node_modules/
+.env
+.env.*
+!.env.example
+dist/
+coverage/
+npm-debug.log*
+backend/data/*.db
+backend/data/*.db-*
+backend/data/backups/
